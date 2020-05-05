@@ -1,0 +1,12 @@
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\bin\Debug\netstandard2.0\TaskManagementApp.Application.deps.json
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\bin\Debug\netstandard2.0\TaskManagementApp.Application.dll
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\bin\Debug\netstandard2.0\TaskManagementApp.Application.pdb
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\bin\Debug\netstandard2.0\TaskManagmentApp.Core.dll
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\bin\Debug\netstandard2.0\TaskManagmentApp.Core.pdb
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\obj\Debug\netstandard2.0\TaskManagementApp.Application.csprojAssemblyReference.cache
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\obj\Debug\netstandard2.0\TaskManagementApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\obj\Debug\netstandard2.0\TaskManagementApp.Application.AssemblyInfoInputs.cache
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\obj\Debug\netstandard2.0\TaskManagementApp.Application.AssemblyInfo.cs
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\obj\Debug\netstandard2.0\TaskManagementApp.Application.csproj.CopyComplete
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\obj\Debug\netstandard2.0\TaskManagementApp.Application.dll
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Application\obj\Debug\netstandard2.0\TaskManagementApp.Application.pdb

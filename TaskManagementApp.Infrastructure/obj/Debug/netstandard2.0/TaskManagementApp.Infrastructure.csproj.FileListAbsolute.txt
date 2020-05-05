@@ -1,0 +1,14 @@
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Infrastructure.deps.json
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Infrastructure.dll
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Infrastructure.pdb
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Application.dll
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagmentApp.Core.dll
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Application.pdb
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagmentApp.Core.pdb
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.AssemblyInfo.cs
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.csproj.CopyComplete
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.dll
+C:\Users\adam\source\repos\TaskManagmentApp\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.pdb
